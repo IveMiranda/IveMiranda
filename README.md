@@ -1,8 +1,8 @@
 <h1 align="left">Ive Miranda</h1>
 <img src="https://user-images.githubusercontent.com/78173803/122679117-00aa0300-d1c0-11eb-89d4-a94bc182a5f5.png" min-width="500px" max-width="500px" width="500px" align="right" alt="Código">
-<h3 align="left">🖥️ Fullstack Web Developer!</h3>
+<h3 align="left">🖥️ Data Analytics!</h3>
 
-<h3>🇧🇷 Brasil, Fortaleza - CE </h3>
+<h3>🇧🇷 Brasil, Brusque - SC </h3>
 
 <h3 align="left">🌺 Follow Me:</h3>
 <p align="left"><a href="https://www.linkedin.com/in/ivemiranda/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a></p>
