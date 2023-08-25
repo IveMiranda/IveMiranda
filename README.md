@@ -8,11 +8,12 @@
 <p align="left"><a href="https://www.linkedin.com/in/ivemiranda/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="left">
+<a href="https://www.w3schools.com/python/" target="_blank"> <img src="https://user-images.githubusercontent.com/78173803/122679516-8e3a2280-d1c1-11eb-9c58-471a3a4deab3.png" alt="python" width="40" height="40"/> </a>  
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/python/" target="_blank"> <img src="https://user-images.githubusercontent.com/78173803/122679516-8e3a2280-d1c1-11eb-9c58-471a3a4deab3.png" alt="python" width="40" height="40"/> </a>
+  
   <a href="https://www.w3schools.com/nodejs/" target="_blank"> <img src="https://user-images.githubusercontent.com/78173803/122679635-07d21080-d1c2-11eb-9cd6-599992892d1b.png" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/jquery/jquery_intro.asp" target="_blank"> <img src="https://user-images.githubusercontent.com/78173803/122679302-af4e4380-d1c0-11eb-8b29-af49491288dc.png" alt="jquery" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/bootstrap4/" target="_blank"> <img src="https://user-images.githubusercontent.com/78173803/122679417-24ba1400-d1c1-11eb-8d9d-32f2816d5b7f.png" alt="bootstrap" width="40" height="40"/> </a>
