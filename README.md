@@ -10,6 +10,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.w3schools.com/python/" target="_blank"> <img src="https://user-images.githubusercontent.com/78173803/122679516-8e3a2280-d1c1-11eb-9c58-471a3a4deab3.png" alt="python" width="40" height="40"/> </a>  
+<a href="https://www.w3schools.com/MySQL/" target="_blank"> <img src="https://github.com/IveMiranda/IveMiranda/assets/78173803/2492a29b-732c-4e49-a382-32ba4c1240b9" alt="mysql" width="40" height="40"/> </a>  
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
